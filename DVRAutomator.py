@@ -1,6 +1,6 @@
 """
 # Hikvision IP Seurity DVR Shutdown Automation Script
-# Copyright (c) 2019 CFCS - C. Formeister, G. Kessler, B. Stone
+# Copyright (c) 2019 CFCS - C. Formeister, w/ assistance from G. Kessler & B. Stone
 # w/ HID information by Google Open Source results
 # for Chris Formeister Computer Svcs. Phoenix, AZ
 #
